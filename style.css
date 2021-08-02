@@ -190,6 +190,13 @@ footer{
 .fa-2x:hover{
 	color: white;
 }
+.copyright-text a{
+	color: white;
+	text-decoration: none;
+}
+.copyright-text a:hover{
+	text-decoration: underline;
+}
 
 				/* Accordion Section  */
 
